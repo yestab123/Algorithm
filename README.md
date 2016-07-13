@@ -2,7 +2,10 @@
 Algorithm
 
 # Sort
-Quick Sort
-Merge Sort
-Shell Sort
-Heap Sort
+  Quick Sort
+  
+  Merge Sort
+
+  Shell Sort
+
+  Heap Sort
